@@ -2,6 +2,8 @@
 
 Sistema de eventos encomendado pela Morena
 
+[![Build Status](https://travis-ci.org/ericpatrick/eventex.svg?branch=master)](https://travis-ci.org/ericpatrick/eventex)
+
 ### Como desenvolver?
 
 1. Clone o repositório.
